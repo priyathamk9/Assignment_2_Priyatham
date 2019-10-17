@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Button</title>
+	<style>
+	<!--CSS style elements-->
+		body
+			{
+			background-color:#FBDA0A;
+			}						
+		h1
+			{
+			color:blue;
+    	}
+     .button {
+     backgroound-color: blue;
+     }
+		</style>
+		<body style="background-color:#FBDA0A;">
+			<h1>Button</h1>
+				<button class="button">Click Me</button>
+      </body>
+      </head>
+      </html>
