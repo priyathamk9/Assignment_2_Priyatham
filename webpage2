@@ -16,7 +16,7 @@
      backgroound-color: blue;
      }
 		</style>
-		<body style="background-color:#FBDA0A;">
+		<body>
 			<h1>Button</h1>
 				<button class="button">Click Me</button>
       </body>
